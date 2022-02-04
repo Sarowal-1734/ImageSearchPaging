@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageSearchPaging</string>
+    <string name="photo">photo</string>
+    <string name="retry">Retry</string>
+    <string name="no_result_found_for_this_query">No result</string>
+    <string name="results_couldn_t_be_loaded">Results couldn\'t be loaded</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+</resources>
